@@ -28,7 +28,7 @@ renderer.toneMapping = THREE.ACESFilmicToneMapping;
 // Teapot
 const geometry = new TeapotGeometry(0.8, 10);
 const material = new THREE.MeshStandardMaterial({
-    color: 0xaaaaaa,
+    color: 0xB8860B,
     metalness: 1.0,
     roughness: 0.1
 });
